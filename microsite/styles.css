@@ -16,3 +16,10 @@ body {
 .my-text {
   font-family: "Dancing Script", sans-serif;
 }
+
+.padding-right-1 {
+  padding-left: 30px;
+}
+.padding-right-2 {
+  padding-left: 15px;
+}
