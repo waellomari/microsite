@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-image: url("Image.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  margin-bottom: 15rem;
+}
+.my-text {
+  font-family: "Dancing Script", sans-serif;
+}
